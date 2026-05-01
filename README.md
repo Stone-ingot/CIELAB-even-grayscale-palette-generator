@@ -11,6 +11,7 @@ Unlike traditional RGB‑even grayscale sampling (e.g., `[0, 36, 73, 109, 146, 1
 
 ```bash
 pip install Pillow
+```
 
 ## Usage
 
@@ -33,6 +34,7 @@ Run the script directly:
 
 ```bash
 python cielab_even_grayscale.py
+```
 
 ## Output
 
