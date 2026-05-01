@@ -25,6 +25,7 @@ grays = lab_to_srgb_gray(n_colors=8)
 
 # Generate a palette and also save it as a PNG image
 lab_to_srgb_gray(n_colors=8, output_path="my_palette.png")
+```
 
 ### Command line
 
